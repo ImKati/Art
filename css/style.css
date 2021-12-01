@@ -194,16 +194,12 @@
     font-size: 20px;
     line-height: 27px;
     max-width: 284px;
-    font-family: 'Montserrat';
-    font-size: 20px;
-    font-style: normal;
     font-weight: 400;
-    line-height: 27px;
     letter-spacing: 0em;
     text-align: left;
     white-space: pre;
     margin-bottom: 462px;
-
+    text-transform: uppercase;
 }
 
 .search-form_sumbit:hover, .search-form_sumbit:focus, .search-form_sumbit:active{
@@ -229,7 +225,7 @@
     text-align: center;
    
 
- }
+}
 
 .paint_title{
     
