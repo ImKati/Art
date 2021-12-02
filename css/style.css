@@ -657,7 +657,10 @@
     height: 144px;
     left: 118px;
     top: 3003px;
+}
 
+.footer_item{
+    margin: 0px 1000px 0px 0px;
 }
 
 .footer_logo{
@@ -666,11 +669,20 @@
     height: 98px;
     left: 0px;
     top: 0px;
-    margin-bottom: 500px;
+    
+    
+}
+
+.footer_l{
+    margin: 10%;
 }
 
 .footer{
-    padding: 171px 126px 1050px 129px;
+    padding: 171px px 1050px 129px;  
+}
+
+.main_item{
+    margin-bottom: 100px;
 }
 
 .footer_main_link1{
@@ -739,7 +751,8 @@
     width: 252px;
     height: 20px;
     left: 950px;
-    top: 105px;
+    top: 129px;
+    
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -780,6 +793,18 @@
     color: #FFFFFF;
 }
 
+.wrapper_footer{
+    position: absolute;
+    width: 1203px;
+    height: 144px;
+    left: 118px;
+    top: 200px;  
+    display: grid;
+    grid-column-end: auto;
+    
+    
+}
+
 .footer_twit{
     position: absolute;
     width: 63px;
@@ -808,6 +833,7 @@
     font-size: 18px;
     line-height: 22px;
     color: #ffffff;
+    
 }
 
 
